@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ticket-management:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ticket-management-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ticket-management:war exploded" />
+    </root>
+  </artifact>
+</component>
